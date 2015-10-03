@@ -1,5 +1,6 @@
 {
     "repo_name": "repo_name",
+    "class_name": "className",
     "author": "Open Source",
     "year": 2015,
     "description": ""
