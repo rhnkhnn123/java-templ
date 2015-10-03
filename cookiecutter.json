@@ -1,6 +1,7 @@
 {
     "repo_name": "repo_name",
     "class_name": "className",
+    "email: "no-reply@example.com",
     "author": "Open Source",
     "year": 2015,
     "description": ""
